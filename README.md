@@ -15,4 +15,4 @@ Detalles
 
 
 
-3.Asignación total desde un CSV por zonas = En esteas líneas de códigos se logra realizar las asignaciones masivas desde un solo CSV para todas las zonas
+3.Asignación total desde un CSV por zonas = En estas líneas de códigos se logra realizar las asignaciones masivas desde un solo CSV para todas las zonas
