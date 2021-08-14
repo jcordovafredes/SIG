@@ -15,4 +15,8 @@ Detalles
 
 
 
-3.Asignación total desde un CSV por zonas = En estas líneas de códigos se logra realizar las asignaciones masivas desde un solo CSV para todas las zonas
+3.Asignación total desde un CSV por zonas = En estas líneas de códigos se logra realizar las asignaciones masivas desde un solo CSV para todas las zonas 
+
+
+
+4. Asignación total desde un CSV por zonas a partir de coordenadas = áca es posible realizar las asignacion en workforce mediante Python contemplando Longitud y Latitud
