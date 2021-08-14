@@ -11,7 +11,7 @@ Detalles
 
 
 
-2.Asignaciones por zona =  Acá se logra las asignaciones por zona, pero con la particularidad que se hace la separación y control en los CSV (un archivo, una zona diferente) y se hace el control de usuario.
+2.Asignaciones por zona =  Acá se logra las asignaciones por zona, pero con la particularidad que se hace la separación y control en los CSV (un archivo, una zona diferente) y se hace el control de usuario. Como dato el tipo de formato para esta notebook es "Dirección, comuna".
 
 
 
